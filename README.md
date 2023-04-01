@@ -1,6 +1,8 @@
 ![OpenIPC logo][logo]
 
-## OpenIPC hardware  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
+## OpenIPC hardware developments 
+
+[![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
 A collection of hardware developments by the OpenIPC team
 
@@ -9,8 +11,6 @@ A collection of hardware developments by the OpenIPC team
 * -
 * -
 * -
-
-![Board-1](photo_2020-09-03_15-48-08.jpg)
 
 
 More information about the [project][project] is available in our [website][website]
