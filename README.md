@@ -1,12 +1,17 @@
 ![OpenIPC logo][logo]
 
-## A collection of hardware developments by the OpenIPC team  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
+## OpenIPC hardware  [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
+
+A collection of hardware developments by the OpenIPC team
 
 * -
 * -
 * -
 * -
 * -
+
+![Board-1](photo_2020-09-03_15-48-08.jpg)
+
 
 More information about the [project][project] is available in our [website][website]
 and on the [wiki][wiki].
@@ -17,7 +22,7 @@ and on the [wiki][wiki].
 
 
 [firmware]: https://github.com/openipc/firmware/
-[logo]: https://openipc.github.io/images/logo_openipc.png
+[logo]: https://openipc.org/assets/openipc-logo-black.svg
 [mit]: https://opensource.org/license/mit/
 [opencollective]: https://opencollective.com/openipc
 [paypal]: https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS
