@@ -4,13 +4,10 @@
 
 [![Telegram](https://openipc.org/images/telegram_button.svg)][telegram]
 
-A collection of hardware developments by the OpenIPC team
+### A collection of hardware developments by the OpenIPC team
 
-* -
-* -
-* -
-* -
-* -
+- [8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max](/module_38x38_r8812au_6v2a)
+- other projects..
 
 
 ![start](photo_2020-09-03_15-48-08.jpg)
