@@ -7,7 +7,7 @@
 
 **Because it was edited using LCEDA, editable circuit files are required, which can be obtained from the open [source link](https://oshwhub.com/suikunlin/openipc-hi3516).**
 
-![photo](photo/photo_2023-10-18_07-08-29.jpg]\)
+![photo](photo/photo_2023-10-18_07-08-29.jpg)
 
 
 <p align="center">
