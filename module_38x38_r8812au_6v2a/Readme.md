@@ -5,6 +5,8 @@
 
 ### The start discussion [here](https://t.me/c/1809358416/28339/29690)
 
+### Download latest archive [here](module_38x38_R8812AU_6V2A_ver0.rar)
+
 ![top](photo_2023-10-23_16-28-41.jpg)
 ![bottom](photo_2023-10-23_16-28-42.jpg) 
 ![other](photo_2023-10-23_16-45-58.jpg)
