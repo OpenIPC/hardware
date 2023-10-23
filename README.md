@@ -13,6 +13,8 @@ A collection of hardware developments by the OpenIPC team
 * -
 
 
+![start](photo_2020-09-03_15-48-08.jpg)
+
 More information about the [project][project] is available in our [website][website]
 and on the [wiki][wiki].
 
