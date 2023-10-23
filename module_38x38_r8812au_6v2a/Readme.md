@@ -7,9 +7,9 @@
 
 ### Download latest archive [here](module_38x38_R8812AU_6V2A_ver0.rar)
 
-![top](photo_2023-10-23_16-28-41.jpg)
-![bottom](photo_2023-10-23_16-28-42.jpg) 
-![other](photo_2023-10-23_16-45-58.jpg)
+![top](photo/photo_2023-10-23_16-28-41.jpg)
+![bottom](photo/photo_2023-10-23_16-28-42.jpg) 
+![other](photo/photo_2023-10-23_16-45-58.jpg)
 
 
 <p align="center">
