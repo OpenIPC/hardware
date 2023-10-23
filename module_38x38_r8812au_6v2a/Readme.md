@@ -3,6 +3,7 @@
 
 ## 8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max.
 
+The start discussion [here](https://t.me/c/1809358416/28339/29690)
 
 
 <p align="center">
