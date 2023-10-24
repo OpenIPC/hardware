@@ -13,7 +13,8 @@ For 6V Max input version：
 For 28V max input version
 ## 8812AU module dock board for camera,input  28V@ 3A max.
 ![top](TOP_View.png)
-Download:R8812AU_3838_28V20231024Ver0gerber.rar
+
+  Download:R8812AU_3838_28V20231024Ver0gerber.rar
 
 <p align="center">
 <a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="250" alt="Open Collective donate button"></a>
