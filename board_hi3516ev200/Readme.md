@@ -11,7 +11,7 @@
 
 ## Descriptions:
 
-**CPU: Hi3516EV200**
+**CPU: Hi3516EV200 or GK7205V200**
 
 **SENSOR: Sony IMX307**
 
