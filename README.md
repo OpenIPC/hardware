@@ -8,8 +8,10 @@
 
 - [One of the open board for OpenIPC](board_hi3516ev200)
 - [8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max](/module_38x38_r8812au_6v2a)
-- other projects..
 
+### A collection of 3D models for use in OpenIPC projects
+
+- [OpenIPC models on Printables site](https://www.printables.com/search/models?q=tag:openipc)
 
 ![start](photo_2020-09-03_15-48-08.jpg)
 
