@@ -8,6 +8,7 @@
 
 - [One of the open board for OpenIPC](board_hi3516ev200)
 - [8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max](/module_38x38_r8812au_6v2a)
+- [WIFI board for stacking on 20mm square hole flight controller for FPV](WIFI-BOARD)
 
 ### A collection of 3D models for use in OpenIPC projects
 
