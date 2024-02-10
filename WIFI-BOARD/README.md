@@ -1,6 +1,6 @@
 ![OpenIPC logo](https://openipc.org/assets/openipc-logo-black.svg)
 
-## 8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max.
+## WIFI board for stacking on 20mm square hole flight controller for FPV
 
 ### The start discussion [here](https://t.me/c/1809358416/28339/29690)
 For 6V Max input version：
