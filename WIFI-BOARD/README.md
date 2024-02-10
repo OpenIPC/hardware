@@ -2,6 +2,7 @@
 
 ## WIFI board for stacking on 20mm square hole flight controller for FPV
 ![top](WIFI-board.jpg)
+![top](WIFI-board2.jpg)
 
 
 <p align="center">
