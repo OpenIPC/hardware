@@ -1,6 +1,7 @@
 ![OpenIPC logo](https://openipc.org/assets/openipc-logo-black.svg)
 
 ## WIFI board for stacking on 20mm square hole flight controller for FPV
+## WIFI board for stacking on 20mm square hole flight controller for FPV
 ![top](WIFI-board.jpg)
 ![top](WIFI-board2.jpg)
 
