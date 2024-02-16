@@ -13,7 +13,8 @@
 ### A collection of 3D models for use in OpenIPC projects
 
 - [OpenIPC models on Printables site](https://www.printables.com/search/models?q=tag:openipc)
-
+- [5 inch racer drone equipped with OpenIPC](OpenIPC-5inchRacer)
+  
 ![start](photo_2020-09-03_15-48-08.jpg)
 
 More information about the [project][project] is available in our [website][website]
