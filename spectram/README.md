@@ -2,11 +2,11 @@
 ![OpenIPC logo](https://openipc.org/assets/openipc-logo-black.svg)
 
 ## RTL8812AU output measurement
-### *.f3z: EAGLE file for FUSUION360
-### *.sch: Schematic file for EAGLE
-### *.brd: Board file for EAGLE
-### *.zip: Gerber data for sending to the board manufacturing company that includes this board as a set of 4
-![top](photo1707209711.jpeg)
+![top](RTL8812AU.jpg)
+- [One of the open board for OpenIPC](board_hi3516ev200)
+- [8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max](/module_38x38_r8812au_6v2a)
+- [WIFI board for stacking on 20mm square hole flight controller for FPV](WIFI-BOARD)
+
 ![top](WIFI-board.jpg)
 ![top](WIFI-board2.jpg)
 ### HOW TO USE
