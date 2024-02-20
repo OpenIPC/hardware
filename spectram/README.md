@@ -13,7 +13,7 @@
 ![top](RX/1451.jpg)
 
 ## [OUTPUT POWER](POWER.md)
-
+## [OBW(occupied band width)](OBW.md)
 
 
 ### HOW TO USE
