@@ -1,7 +1,7 @@
 
 ![OpenIPC logo](https://openipc.org/assets/openipc-logo-black.svg)
 
-## RTL8812AU output measurement
+# RTL8812AU output measurement
 ![top](RTL8812AU.jpg)
 
 - ****We measured the output when changing the value of driver_txpower_override in wfb.conf from 20 to 58.****
