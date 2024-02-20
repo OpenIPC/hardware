@@ -12,6 +12,8 @@
 
 ![top](RX/1451.jpg)
 
+## [OUTPUT POWER](POWER.md)
+
 
 
 ### HOW TO USE
