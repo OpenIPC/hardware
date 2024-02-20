@@ -3,8 +3,14 @@
 
 ## RTL8812AU output measurement
 ![top](RTL8812AU.jpg)
-- [One of the open board for OpenIPC](board_hi3516ev200)
-- [8812AU module dock board for camera,input 6V@2A max and 28V@ 3A max](/module_38x38_r8812au_6v2a)
+
+- We measured the output when changing the value of driver_txpower_override in wfb.conf from 20 to 58.
+- Equipment used: ADVANTEST R3273 100hz~26.5Ghz
+![top](SpectramAnryzer_R3273.jpg)
+- The measurement method was to connect one of the two systems to a dummy load and the other directly to the spectrum analyzer.
+
+![top](RX/1451.jpg)
+
 - [WIFI board for stacking on 20mm square hole flight controller for FPV](WIFI-BOARD)
 
 ![top](WIFI-board.jpg)
