@@ -4,17 +4,16 @@
 ## RTL8812AU output measurement
 ![top](RTL8812AU.jpg)
 
-- We measured the output when changing the value of driver_txpower_override in wfb.conf from 20 to 58.
-- Equipment used: ADVANTEST R3273 100hz~26.5Ghz
+- ****We measured the output when changing the value of driver_txpower_override in wfb.conf from 20 to 58.****
+
+-  ****Equipment used: ADVANTEST R3273 100hz~26.5Ghz****
 ![top](SpectramAnryzer_R3273.jpg)
-- The measurement method was to connect one of the two systems to a dummy load and the other directly to the spectrum analyzer.
+- ****The measurement method was to connect one of the two systems to a dummy load and the other directly to the spectrum analyzer.****
 
 ![top](RX/1451.jpg)
 
-- [WIFI board for stacking on 20mm square hole flight controller for FPV](WIFI-BOARD)
 
-![top](WIFI-board.jpg)
-![top](WIFI-board2.jpg)
+
 ### HOW TO USE
 Prepare a standoff of this shape
 ![top](photo/StandOff.jpg)
