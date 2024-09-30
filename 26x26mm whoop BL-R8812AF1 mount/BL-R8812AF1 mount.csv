@@ -1,0 +1,6 @@
+Reference,Value,Footprint,Qty
+"C1,C2",1u,Capacitor_SMD:C_0603_1608Metric,2
+C3,4u7,Capacitor_SMD:C_0603_1608Metric,1
+"D1,D2",LED,Capacitor_SMD:C_0603_1608Metric,2
+"R1,R2",1k,Resistor_SMD:R_0603_1608Metric,2
+U2,LDL1117S33R,LDL1117S33R:SOT223_STM,1
