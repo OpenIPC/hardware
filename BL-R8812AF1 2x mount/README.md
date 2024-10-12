@@ -6,8 +6,8 @@
 
 ## HOW TO MAKE
 ### You can order the PCB by sending the gerber files in the .zip to a PCB manufacturer. I have also included the source Kicad project files if you want to make any modifications.
-![double wifi](double wifi.jpg)
-![pre-assembled PCB](pre-assembled PCB.jpg)
+![double wifi](doubleWifi.jpg)
+![pre-assembled PCB](preAssembledPCB.jpg)
 ![lsusb](lsusb.png)
 
 <p align="center">
