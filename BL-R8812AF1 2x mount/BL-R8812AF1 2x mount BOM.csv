@@ -1,9 +1,0 @@
-Reference,Value,Footprint,Qty,LCSC
-"C1,C3",1u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2,C15849
-C2,4u7,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1,C1705
-"C4,C5,C6",10u,Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,3,  C92487
-"D1,D2,D3",LED,LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,3,C84267
-"R1,R2,R3",1k,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3,C21190
-U1,SL2.1A,Package_SO:SOIC-16_4.55x10.3mm_P1.27mm,1,C192893
-U2,LDL1117S33R,LDL1117S33R:SOT223_STM,1,C435835
-Y1,12MHz,Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm,1,  C112573
