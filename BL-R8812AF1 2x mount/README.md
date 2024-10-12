@@ -6,9 +6,9 @@
 
 ## HOW TO MAKE
 ### You can order the PCB by sending the gerber files in the .zip to a PCB manufacturer. I have also included the source Kicad project files if you want to make any modifications.
-![double wifi](Photos/double wifi.jpg)
-![pre-assembled PCB](Photos/pre-assembled PCB.jpg)
-![lsusb](Photos/lsusb.png)
+![double wifi](/Photos/double wifi.jpg)
+![pre-assembled PCB](/Photos/pre-assembled PCB.jpg)
+![lsusb](/Photos/lsusb.png)
 
 <p align="center">
 <a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="250" alt="Open Collective donate button"></a>
